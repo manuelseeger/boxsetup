@@ -49,4 +49,6 @@ choco install nvm
 choco install nmap
 choco install wireguard
 choco install steam
-
+choco install openrgb
+choco install tesseract
+choco install portfolio
