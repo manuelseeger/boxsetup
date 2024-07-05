@@ -21,7 +21,6 @@ choco install insomnia-rest-api-client
 choco install drawio
 choco install vscode-drawio
 choco install vlc
-choco install whatsapp
 choco install signal
 choco install discord
 choco install 1password
@@ -48,7 +47,6 @@ choco install cuda
 choco install nvm
 choco install nmap
 choco install wireguard
-choco install steam
 choco install openrgb
 choco install tesseract
 choco install portfolio
