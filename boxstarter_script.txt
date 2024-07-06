@@ -50,3 +50,4 @@ choco install wireguard
 choco install openrgb
 choco install tesseract
 choco install portfolio
+choco install nvidia-broadcast
