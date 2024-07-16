@@ -14,8 +14,7 @@ Official websites:
 - [BoxStarter](https://boxstarter.org/)
 
 ## Let's get it done
-1.  First things first - Install Chocolatey
-    - First, you need to install Chocolatey. You can do that by running the scripts [found here](https://chocolatey.org/install).
+1.  First things first - Install Chocolatey https://chocolatey.org/install
 1.  Install powertoys. https://github.com/microsoft/PowerToys/
 1.  Set PowerToys Awake to awake indefinitely. This is so that your laptop does not go to sleep / standby while boxstarter is running. 
 1.  Install BoxStarter.  
