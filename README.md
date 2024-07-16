@@ -36,8 +36,7 @@ Official websites:
    Set-ExecutionPolicy Bypass -Scope Process
    Import-Module Boxstarter.Chocolatey
    ```
-   Invoke the the `Install-BoxstarterPackage` command pointing to the gist created above. For this we will need the RAW link to the GIST script content. In our case it would look like:  `Install-BoxstarterPackage -PackageName boxstarter_script.txt -DisableReboots`   
-   Note that I used the `-DisableReboots`  option as it is stated on the BoxStarter example, but BoxStarter runs from an elevated prompt and can handle reboots and continue with the installation tasks completely unnatended.
+   Invoke the `Install-BoxstarterPackage` command pointing to the install script created above. In our case it would look like:  `Install-BoxstarterPackage -PackageName boxstarter_script.txt -DisableReboots`
 
 ## References used:   
  - https://octopus.com/blog/automate-developer-machine-setup-with-chocolatey
