@@ -52,3 +52,4 @@ choco install tesseract
 choco install portfolio
 choco install nvidia-broadcast
 choco install act-cli
+choco install mongodb-database-tools
